@@ -1,0 +1,59 @@
+PlayerName,Date,MatchType(OneDay-T20-Test),OppositionTeam,TossWin,BowlingFirst,BattingFirst,hometeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MatchesPerformance,weather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
+Shane Watson,24-Feb-06,T20I,v South Africa,Loss,Yes,No,South Africa,Bad,Bad,Bad,Normal,Dry,Out,6,4
+Shane Watson,20-Sep-07,T20I,v Sri Lanka,Win,Yes,No, South Africa(WC),Bad,Bad,Bad,Normal,Dry,,,DNB
+Shane Watson,20-Jun-08,T20I,v West Indies,Loss,No,Yes,West Indies,Bad,Bad,Bad,Normal,Dry,Out,One-Down,17*
+Shane Watson,07-May-09,T20I,v Pakistan,Loss,No,Yes,Pakistan(Dubai),Bad,Bad,Bad,Normal,Dry,In,Oppner,33
+Shane Watson,06-Jun-09,T20I,v West Indies,Win,No,Yes,England(WC),Bad,Average,Bad,Normal,Green,Out,Oppner,0
+Shane Watson,08-Jun-09,T20I,v Sri Lanka,Loss,No,Yes,England(WC),Good,Average,Average,Due Factor,Dry,Out,Oppner,22
+Shane Watson,30-Aug-09,T20I,v England,Loss,No,Yes,England,Good,Bad,Average,Overcast,Dry,Out,Oppner,10
+Shane Watson,05-Feb-10,T20I,v Pakistan,Win,No,Yes,Australia,Good,Bad,Bad,Normal,Dry,Out,Oppner,8
+Shane Watson,21-Feb-10,T20I,v West Indies,Win,No,Yes,Australia,Good,Bad,Bad,Windy,Dry,In,Oppner,37
+Shane Watson,23-Feb-10,T20I,v West Indies,Loss,Yes,No,Australia,Bad,Bad,Bad,Normal,Plain,In,Oppner,62*
+Shane Watson,26-Feb-10,T20I,v New Zealand,Loss,Yes,No,New Zealand,Bad,Average,Bad,Normal,Dry,Out,Oppner,19
+Shane Watson,02-May-10,T20I,v Pakistan,Win,No,Yes,West Indies(WC),Good,Average,Average,Normal,Plain,In,Oppner,81
+Shane Watson,05-May-10,T20I,v Bangladesh,Win,No,Yes,West Indies(WC),Bad,Good,Average,Normal,Plain,Out,Oppner,4
+Shane Watson,07-May-10,T20I,v India,Loss,No,Yes,West Indies(WC),Good,Average,Good,Normal,Green,In,Oppner,54
+Shane Watson,09-May-10,T20I,v Sri Lanka,Win,No,Yes,West Indies(WC),Bad,Average,Average,Normal,Dry,Out,Oppner,1
+Shane Watson,11-May-10,T20I,v West Indies,Loss,Yes,No,West Indies(WC),Good,Bad,Average,Overcast,Green,Out,Oppner,5
+Shane Watson,14-May-10,T20I,v Pakistan,Win,Yes,No,West Indies(WC),Good,Average,Bad,Sunny,Green,Out,Oppner,16
+Shane Watson,16-May-10,T20I,v England,Loss,No,Yes,West Indies(WC),Good,Bad,Average,Overcast,Dry,Out,Oppner,2
+Shane Watson,05-Jul-10,T20I,v Pakistan,Loss,Yes,No,England(Nutral),Good,Bad,Bad,Overcast,Plain,Out,Oppner,0
+Shane Watson,31-Oct-10,T20I,v Sri Lanka,Win,No,Yes,Australia,Good,Bad,Bad,Normal,Plain,Out,One-Down,4
+Shane Watson,12-Jan-11,T20I,v England,Win,No,Yes,Australia,Good,Bad,Bad,Normal,Plain,In,Oppner,59
+Shane Watson,14-Jan-11,T20I,v England,Win,No,Yes,Australia,Bad,Average,Bad,Normal,Plain,Out,Oppner,17
+Shane Watson,06-Aug-11,T20I,v Sri Lanka,Win,Yes,No,Sri Lanka,Good,Average,Average,Normal,Dry,Out,Oppner,10
+Shane Watson,08-Aug-11,T20I,v Sri Lanka,Loss,Yes,No,Sri Lanka,Good,Average,Average,Due Factor,Green,In,Oppner,57
+Shane Watson,13-Oct-11,T20I,v South Africa,Loss,Yes,No,South Africa,Bad,Average,Average,Normal,Green,In,Oppner,52
+Shane Watson,27-Mar-12,T20I,v West Indies,Loss,Yes,No,West Indies,Bad,Average,Average,Normal,Green,In,Oppner,69
+Shane Watson,30-Mar-12,T20I,v West Indies,Loss,Yes,No,West Indies,Bad,Good,Average,Windy,Green,Out,Oppner,0
+Shane Watson,05-Sep-12,T20I,v Pakistan,Loss,No,Yes,Pakistan,Good,Average,Good,Normal,Dry,Out,Oppner,8
+Shane Watson,07-Sep-12,T20I,v Pakistan,Loss,Yes,No,Pakistan,Good,Average,Average,Normal,Dry,Out,Oppner,33
+Shane Watson,10-Sep-12,T20I,v Pakistan,Loss,Yes,No,Pakistan,Bad,Bad,Average,Normal,Dry,Out,Oppner,47
+Shane Watson,19-Sep-12,T20I,v Ireland,Loss,Yes,No,Sri Lanka,Bad,Average,Bad,Normal,Plain,In,Oppner,51
+Shane Watson,22-Sep-12,T20I,v West Indies,Loss,Yes,No,Sri Lanka,Bad,Average,Average,Rain,Plain,In,Oppner,41*
+Shane Watson,28-Sep-12,T20I,v India,Loss,Yes,No,Sri Lanka,Bad,Average,Average,Normal,Dry,In,Oppner,72
+Shane Watson,30-Sep-12,T20I,v South Africa,Won,Yes,No,Sri Lanka,Bad,Good,Average,Normal,Dry,In,Oppner,70
+Shane Watson,02-Oct-12,T20I,v Pakistan,Won,Yes,No,Sri Lanka,Bad,Good,Good,Normal,Dry,Out,Oppner,8
+Shane Watson,05-Oct-12,T20I,v West Indies,Loss,Yes,No,Sri Lanka,Good,Good,Good,Normal,Dry,Out,Oppner,7
+Shane Watson,29-Aug-13,T20I,v England,Loss,No,Yes,England,Good,Average,Good,Normal,Dry,In,4,37
+Shane Watson,31-Aug-13,T20I,v England,Won,Yes,No,England,Bad,Bad,Average,Normal,Green,Out,One-Down,7
+Shane Watson,10-Oct-13,T20I,v India,Loss,No,Yes,India,Good,Bad,Bad,Normal,Dry,Out,One-Down,6
+Shane Watson,12-Mar-14,T20I,v South Africa,Won,Yes,No,South Africa,Good,Bad,Bad,Rain,Green,Out,One-Down,2
+Shane Watson,14-Mar-14,T20I,v South Africa,Won,Yes,No,South Africa,Good,Bad,Bad,Normal,Plain,Out,One-Down,35
+Shane Watson,23-Mar-14,T20I,v Pakistan,Won,Yes,No,Bangladesh(WC),Bad,Bad,Bad,Normal,Dry,Out,One-Down,4
+Shane Watson,28-Mar-14,T20I,v West Indies,Won,No,Yes,Bangladesh(WC),Good,Bad,Bad,Normal,Dry,Out,One-Down,2
+Shane Watson,30-Mar-14,T20I,v India,Won,Yes,No,Bangladesh(WC),Good,Bad,Bad,Normal,Green,Out,4,1
+Shane Watson,01-Apr-14,T20I,v Bangladesh,Loss,Yes,No,Bangladesh(WC),Good,Bad,Bad,Normal,Green,,,DNB
+Shane Watson,05-Nov-14,T20I,v South Africa,Won,No,Yes,Australia,Bad,Bad,Bad,Normal,Green,Out,One-Down,47
+Shane Watson,07-Nov-14,T20I,v South Africa,Loss,Yes,No,Australia,Bad,Bad,Bad,Overcast,Dry,Out,One-Down,30
+Shane Watson,09-Nov-14,T20I,v South Africa,Won,Yes,No,Australia,Bad,Bad,Bad,Normal,Dry,Out,One-Down,5
+Shane Watson,31-Aug-15,T20I,v England,Won,Yes,No,England,Good,Bad,Bad,Normal,Dry,Out,Oppner,8
+Shane Watson,26-Jan-16,T20I,v India,Won,Yes,No,Australia,Good,Bad,Bad,Due Factor,Plain,Out,6,12
+Shane Watson,29-Jan-16,T20I,v India,Won,Yes,No,Australia,Good,Average,Bad,Windy,Dry,Out,5,15
+Shane Watson,31-Jan-16,T20I,v India,Won,No,Yes,Australia,Good,Average,Average,Overcast,Plain,In,Oppner,124*
+Shane Watson,06-Mar-16,T20I,v South Africa,Won,Yes,No,South Africa,Bad,Good,Average,Normal,Plain,Out,Oppner,9
+Shane Watson,09-Mar-16,T20I,v South Africa,Loss,Yes,No,South Africa,Good,Average,Good,Normal,Plain,In,Oppner,42
+Shane Watson,18-Mar-16,T20I,v New Zealand,Loss,Yes,No,Sri Lanka(WC),Bad,Average,Average,Normal,Hard,Out,Oppner,13
+Shane Watson,21-Mar-16,T20I,v Bangladesh,Loss,Yes,No,India(WC),Good,Bad,Average,Due Factor,Hard,Out,Oppner,21
+Shane Watson,25-Mar-16,T20I,v Pakistan,Won,No,Yes,India(WC),Good,Average,Bad,Overcast,Plain,In,6,44*
+Shane Watson,27-Mar-16,T20I,v India,Won,No,Yes,India(WC),Bad,Bad,Average,Normal,Hard,In,6,18*
